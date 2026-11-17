@@ -1,4 +1,3 @@
-
 const int led = 8;
 const int botaoAtivar = 2;
 const int botaoDeteccao = 3;
