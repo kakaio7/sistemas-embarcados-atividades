@@ -1,4 +1,3 @@
-
 const int ledVermelho = 8;
 const int ledAmarelo = 9;
 const int ledVerde = 10;
